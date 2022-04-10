@@ -48,7 +48,7 @@
     "immutable": "3.8.2",
     "invariant": "2.2.4",
     "ip": "1.1.5",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "moment": "^2.24.0",
     "momentjs": "^2.0.0",
     "prop-types": "15.6.1",
