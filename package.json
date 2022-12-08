@@ -40,7 +40,7 @@
     "cross-env": "^5.1.6",
     "d3": "^5.9.1",
     "event-source-polyfill": "^1.0.5",
-    "express": "4.16.3",
+    "express": "4.17.3",
     "fontfaceobserver": "2.0.13",
     "graphql": "^14.2.1",
     "history": "4.7.2",
